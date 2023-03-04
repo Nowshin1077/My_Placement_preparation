@@ -1,4 +1,4 @@
 ICPC Assiut University Community
-Newcomers Training ,Do Your Best
+Newcomers Training 
 
 Link: https://codeforces.com/group/MWSDmqGsZm/contests
